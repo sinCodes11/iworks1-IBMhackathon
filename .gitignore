@@ -1,0 +1,46 @@
+# Environment
+.env
+.env.local
+*.env
+credentials.json
+apikey.json
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+venv/
+env/
+.venv/
+*.egg-info/
+dist/
+build/
+
+# Node
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# IBM Cloud / watsonx
+ibm-credentials.env
+watson*.json
+
+# Logs
+*.log
+logs/
+
+# Build artifacts
+*.zip
+*.tar.gz
