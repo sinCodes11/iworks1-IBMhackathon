@@ -1,4 +1,12 @@
-# IBM Dev Day AI Demystified Hackathon
+<div align="center">
+  <img src="assets/banner.svg" width="100%"/>
+</div>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/event-IBM%20Dev%20Day-054ada?style=flat-square" alt="event">
+  <img src="https://img.shields.io/badge/type-hackathon-ff0033?style=flat-square" alt="type">
+</p>
+
 
 > **Theme**: AI Demystified — From idea to deployment
 
